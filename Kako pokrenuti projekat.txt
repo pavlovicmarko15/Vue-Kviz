@@ -1,0 +1,8 @@
+﻿U folderu našeg projekta pokrenuti cmd i otkucati sledeće:
+
+-npm install
+-npm run dev
+
+Ukoliko se projekat nakon toga ne pokrene sam, u browseru ukucati http://localhost:8080
+Takođe, kviz zahteva internet konekciju jer koristi "opentdb.com/api" za dostavljanje pitanja i odgovora 
+ 
